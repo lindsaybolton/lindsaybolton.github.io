@@ -1,0 +1,54 @@
+body {
+	background-image: url("blockisland.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: Helvetica, Arial, sans-serif;
+	font-color: #000000;
+	text-align: center;
+	line-height: 1.3;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+img {
+	width: 80%;
+}
+
+#slogan {
+	font-size: 22px;
+	font-style: italic;
+	font-color: #8C3300;
+	padding-bottom: 20px;
+}
+
+h6 {
+	font-size: 10px;
+	font-color: white;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 14px;
+}
+
+.descriptionpadding {
+	padding: 20px;
+}
+
+a:link {
+	color: #555555;
+	font-size: 10px;
+	text-decoration: none;
+}
+
+/* CONTAINER CLASSES */
+
+footer {
+	padding-top: 1px;
+	padding-bottom: 1px;
+	background-color: #C9FFC1;
+}
