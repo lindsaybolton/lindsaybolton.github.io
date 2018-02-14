@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Slabo+27px');
+
+
+body {
+	font-size: 16px; /*1em = 16px*/
+	color: #000000;
+	text-align: center;
+	line-height: 1.3;
+	margin: 0px;
+}
+
+h1 {
+	font-family: 'Roboto', san-serif;
+	font-size: 40px;
+	font-weight: 800;
+	text-align: center;
+	text-transform: uppercase;
+}
+
+hr {
+	border: 2px solid;
+	width: 2em;
+	color: red;
+	margin: 2em auto;
+}
+
+img {
+	width: 30em;
+}
+
+p {
+	font-family: 'Slabo 27px', serif;
+	font-size: .75em;
+	width: 30em;
+	line-height: 1.5em;
+}
+
+h6 {
+	font-family: 'Roboto', san-serif;
+	font-size: 10px;
+	color: white;
+	text-transform: uppercase;
+}
+
+a {
+	font-family: 'Roboto', san-serif;
+	color: #FFFFFF;
+	font-size: 10px;
+	text-decoration: none;
+}
+
+a:hover {
+	color: gray;
+}
+
+
+.navlinks {
+	font-family: 'Slabo 27px';
+	color: red;
+	padding: 20px;
+	letter-spacing: 2px;
+}
+
+.intro {
+	width: 30em;
+	margin: 2em auto;
+}
+
+
+/* CONTAINER CLASSES */
+
+footer {
+	padding-top: 1px;
+	padding-bottom: 1px;
+	background-color: #000000;
+}
