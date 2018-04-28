@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto|Slabo+27px');
+
+body {
+	font-family: 'Roboto', san-serif;
+	font-size: 16px; /*1em = 16px*/
+	text-align: center;
+	position: relative;
+	line-height: 1.3;
+	margin: 0px;
+}
+
+h1 {
+	font-size: 2.5em;
+	font-weight: 800;
+	line-height: 2em;
+}
+
+h2 {
+	font-size: 1.5em;
+	line-height: .5em;
+}
+
+p {
+	font-size: .75em;
+	line-height: 1.25em;
+}
+
+a {
+	text-decoration: none;
+	color: #000000;
+}
+
+.navlinks {
+	padding: 1em;
+}
+
+.container {
+	width: 960px;
+	margin: 0 auto;
+}
+
+.article {
+	width: 460px;
+	padding: 10px;
+	padding-bottom: 20px;
+	margin: 0 10px;
+	float: left;
+}
+
+#left {
+
+}
+
+#right {
+	margin: auto;
+}
+
+
+#footerlink {
+
+}
+
+footer {
+	font-size: .65em;
+	clear: both;
+	margin: .5em;
+	padding: .5em;
+	text-align: right;
+	background-color: #E0E0E0;
+}
